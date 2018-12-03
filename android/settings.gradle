@@ -1,0 +1,3 @@
+rootProject.name = 'bugtool'
+
+include ':app'
